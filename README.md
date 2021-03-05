@@ -1,2 +1,2 @@
-# training
+# Training
 Mi campo de aprendizaje
